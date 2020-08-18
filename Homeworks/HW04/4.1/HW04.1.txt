@@ -1,0 +1,23 @@
+1. Selection, bubble, and insertion sort result in 0 moves for the best
+  case because elements are only moved if they are out of order. Since all
+  the elements are already in order, none of them need to be moved.
+
+2. Bubble sort and Insertion sort result in 999 comparisons for the best case
+  because each element is compared to its adjacent one and only compared to non
+  adjacent ones when the second is smaller than the first. This never occurs
+  in the best case scenario, so each element is only looked at and compared to
+  its adjacent element once.
+
+3. Selection sort must result in 1500 moves in the worst case because every
+  element is swapped one time, and it takes 3 moves to swap a single element.
+
+4. Merge sort results in the same number of moves for the 3 arrays because
+  every element must be copied into a temp array and placed into a temp array and
+  back into the original array regardless if the original array is already
+  sorted or not
+
+5. Selection sort had the least amount of moves for each case, but the most amount
+of comparisons. Bubble sort worked very well in the best case, but otherwise
+is very bad. Insertion sort seems to be the most balanced, since the moves and comparisons
+increase from the best to worst case. Merge and quick sort were both very well
+performing in terms of moves and comparisons compared to the other algorithms. 

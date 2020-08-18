@@ -1,0 +1,42 @@
+1 tellers:
+
+Customer 0 arrived at time <-- 1
+Customer 1 arrived at time <-- 2
+Customer 1 added to waitingQ
+Customer 2 arrived at time <-- 4
+Customer 2 added to waitingQ
+Customer 0 departed at time --> 6.
+Customer 1 removed from waitingQ
+Customer 1 departed at time --> 11.
+Customer 2 removed from waitingQ
+Customer 2 departed at time --> 16.
+Customer 3 arrived at time <-- 20
+Customer 4 arrived at time <-- 22
+Customer 4 added to waitingQ
+Customer 5 arrived at time <-- 24
+Customer 5 added to waitingQ
+Customer 3 departed at time --> 25.
+Customer 4 removed from waitingQ
+Customer 6 arrived at time <-- 26
+Customer 6 added to waitingQ
+Customer 7 arrived at time <-- 28
+Customer 7 added to waitingQ
+Customer 4 departed at time --> 30.
+Customer 5 removed from waitingQ
+Customer 8 arrived at time <-- 30
+Customer 8 added to waitingQ
+Customer 5 departed at time --> 35.
+Customer 6 removed from waitingQ
+Customer 6 departed at time --> 40.
+Customer 7 removed from waitingQ
+Customer 7 departed at time --> 45.
+Customer 8 removed from waitingQ
+Customer 8 departed at time --> 50.
+Customer 9 arrived at time <-- 88
+Customer 9 departed at time --> 91.
+
+Final Statistics:
+Total number of customers processed =  10
+Average waiting time =  5.6
+Maximum waiting time =  15
+Maximum waiting queue length = 3

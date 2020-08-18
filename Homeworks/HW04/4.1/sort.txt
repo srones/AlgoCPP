@@ -1,0 +1,60 @@
+Selection Sort Best Case: 
+Moves: 0
+Comps: 500500
+
+Selection Sort Average Case: 
+Moves: 2961
+Comps: 500500
+
+Selection Sort Worst Case: 
+Moves: 1500
+Comps: 500500
+
+Bubble Sort Best Case: 
+Moves: 0
+Comps: 999
+
+Bubble Sort Average Case: 
+Moves: 721992
+Comps: 499175
+
+Bubble Sort Worst Case: 
+Moves: 1498500
+Comps: 499500
+
+Insertion Sort Best Case: 
+Moves: 0
+Comps: 999
+
+Insertion Sort Average Case: 
+Moves: 241659
+Comps: 241657
+
+Insertion Sort Worst Case: 
+Moves: 500499
+Comps: 499500
+
+Merge Sort Best Case: 
+Moves: 19952
+Comps: 5044
+
+Merge Sort Average Case: 
+Moves: 19952
+Comps: 5044
+
+Merge Sort Worst Case: 
+Moves: 19952
+Comps: 5044
+
+Quick Sort Best Case: 
+Moves: 762
+Comps: 7879
+
+Quick Sort Average Case: 
+Moves: 7894
+Comps: 10615
+
+Quick Sort Worst Case: 
+Moves: 5054
+Comps: 12527
+
