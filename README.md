@@ -1,4 +1,4 @@
-# Cpp-Algorithms
+# C++ Algorithms
 
 C++ source code of Homeworks and projects for EECE 2560: Fundamentals of Engineering ALgorithms (Spring 2020)
 
